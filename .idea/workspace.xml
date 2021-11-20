@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3274f5a5-99be-45b1-8c5d-d0dba6816af4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="205gbK7wiYYOrUyGJ2X7wGBcHYm" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="ArrayBlockingQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gavin.CollectionDemo.ArrayBlockingQueueDemo" />
+      <module name="com.gavin.collectionDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gavin.CollectionDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArrayDequeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gavin.CollectionDemo.ArrayDequeDemo" />
+      <module name="com.gavin.collectionDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gavin.CollectionDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConcurrentLinkedQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gavin.CollectionDemo.ConcurrentLinkedQueueDemo" />
+      <module name="com.gavin.collectionDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gavin.CollectionDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gavin.CollectionDemo.Other.Demo" />
+      <module name="com.gavin.collectionDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gavin.CollectionDemo.Other.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedBlockingDequeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gavin.CollectionDemo.LinkedBlockingDequeDemo" />
+      <module name="com.gavin.collectionDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gavin.CollectionDemo.BlockingQueueDemo" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.531" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.531" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="com.gavin.collectionDemo:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/com_gavin_collectionDemo_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="com.gavin.collectionDemo:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.ArrayDequeDemo" />
+        <item itemvalue="Application.ConcurrentLinkedQueueDemo" />
+        <item itemvalue="Application.LinkedBlockingDequeDemo" />
+        <item itemvalue="Application.ArrayBlockingQueueDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3274f5a5-99be-45b1-8c5d-d0dba6816af4" name="Default Changelist" comment="" />
+      <created>1635339932755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635339932755</updated>
+      <workItem from="1635339936334" duration="5663000" />
+      <workItem from="1635382645127" duration="20199000" />
+      <workItem from="1635464287438" duration="16165000" />
+      <workItem from="1635506315813" duration="30000" />
+      <workItem from="1635517327743" duration="1734000" />
+      <workItem from="1635562783075" duration="20786000" />
+      <workItem from="1635605213151" duration="718000" />
+      <workItem from="1635642592960" duration="1381000" />
+      <workItem from="1635681418629" duration="8970000" />
+      <workItem from="1635738687063" duration="132000" />
+      <workItem from="1635775604212" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gavin/CollectionDemo/HashSetDemo.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gavin/CollectionDemo/TreeSetDemo.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gavin/CollectionDemo/CurrentSkipListSetDemo.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gavin/CollectionDemo/ArrayDequeDemo.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gavin/CollectionDemo/BlockingQueueDemo.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gavin/CollectionDemo/ArrayBlockingQueueDemo.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gavin/CollectionDemo/ArrayBlockingQueueDemo.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gavin/CollectionDemo/Vector_1Demo.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/gavin/CollectionDemo/Other/Demo.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/com_gavin_collectionDemo$CurrentSkipListSetDemo.ic" NAME="CurrentSkipListSetDemo Coverage Results" MODIFIED="1635494526113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>gavin.CollectionDemo.*</FILTER>
+    </SUITE>
+  </component>
+</project>
